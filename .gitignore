@@ -20,6 +20,7 @@ frontend/.turbo/
 firebase-debug.log
 firestore-debug.log
 ui-debug.log
+.firebaserc
 
 # Build outputs
 frontend/dist/
